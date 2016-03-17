@@ -1,0 +1,26 @@
+{
+  "name": "node jasmine seed",
+  "version": "1.0.0",
+  "description": "Seed project for Node using the official Jasmine Node package (and therefore the latest Jasmine version), 
+                  and verbose test reporting using jasmine-spec-reporter.",
+  "main": "",
+  "scripts": {
+    "test": "node spec/support/helpers/jasmine-runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forty9er/node-jasmine-seed"
+  },
+  "author": "Tom Barnes, tombarnesmail@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forty9er/node-jasmine-seed/issues"
+  },
+  "homepage": "https://github.com/forty9er/node-jasmine-seed#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^2.4.0"
+  }
+}
