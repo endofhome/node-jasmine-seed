@@ -1,8 +1,7 @@
 {
-  "name": "node jasmine seed",
+  "name": "node-jasmine-seed",
   "version": "1.0.0",
-  "description": "Seed project for Node using the official Jasmine Node package (and therefore the latest Jasmine version), 
-                  and verbose test reporting using jasmine-spec-reporter.",
+  "description": "Seed project for Node using the official Jasmine Node package (and therefore the latest Jasmine version), and verbose test reporting using jasmine-spec-reporter.",
   "main": "",
   "scripts": {
     "test": "node spec/support/helpers/jasmine-runner.js"
