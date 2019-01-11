@@ -12,7 +12,7 @@ I like detail, I like the command line, and I like to see exactly which tests ar
 
 ### Usage
 
-Clone the repo into your project folder: ```git clone git@github.com:forty9er/node-jasmine-seed.git .``` 
+Clone the repo into your project folder: ```git clone git@github.com:endofhome/node-jasmine-seed.git .``` 
 
 Install the required modules ```npm install```
 

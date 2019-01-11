@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forty9er/node-jasmine-seed"
+    "url": "git+https://github.com/endofhome/node-jasmine-seed"
   },
   "author": "Tom Barnes, tombarnesmail@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/forty9er/node-jasmine-seed/issues"
+    "url": "https://github.com/endofhome/node-jasmine-seed/issues"
   },
-  "homepage": "https://github.com/forty9er/node-jasmine-seed#readme",
+  "homepage": "https://github.com/endofhome/node-jasmine-seed#readme",
   "dependencies": {
   },
   "devDependencies": {
